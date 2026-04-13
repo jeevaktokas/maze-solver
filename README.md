@@ -78,7 +78,3 @@ This project was built as a portfolio piece to demonstrate:
 - Clean, documented Python code
 - OOP principles applied to a real interactive program
 - Understanding of AI search strategies
-
-## License
-
-MIT

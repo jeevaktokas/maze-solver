@@ -78,3 +78,9 @@ This project was built as a portfolio piece to demonstrate:
 - Clean, documented Python code
 - OOP principles applied to a real interactive program
 - Understanding of AI search strategies
+
+## Screenshots
+
+<img width="900" height="678" alt="Screenshot 2026-04-13 at 3 02 12 PM" src="https://github.com/user-attachments/assets/3dd8298f-6e7e-414a-bedf-99c05ee4f33f" />
+
+
